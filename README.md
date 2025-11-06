@@ -5,8 +5,11 @@
 <br>
 
 ### Tecnologias usadas para esse projeto :
- <li>HTML</li>
- <li>CSS</li>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
  ### Desafios e Soluções:
  Ao longo do desenvolvimento, enfrentamos desafios comuns, como a compatibilidade entre navegadores e a necessidade de otimizar o desempenho do site. Implementamos boas práticas, como a compressão de imagens, para garantir um carregamento rápido e eficiente.
