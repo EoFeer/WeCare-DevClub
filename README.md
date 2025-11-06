@@ -11,5 +11,7 @@
 </div>
 
   ### Conclusão:
-  Em resumo, este projeto não apenas consolidou meus conhecimentos em HTML e CSS, mas também ressaltou a importância dessas tecnologias na criação de experiências web atraentes e funcionais. A combinação da estrutura semântica do HTML com a flexibilidade estilística do CSS possibilitou a criação de um website que não apenas atende, mas supera as expectativas.
+  Em resumo, este projeto não apenas consolidou meus conhecimentos em HTML e CSS, mas também ressaltou a importância dessas tecnologias na criação das páginas web. A combinação da estrutura semântica do HTML com a flexibilidade estilística do CSS possibilitou a criação de um website que não apenas atende, mas supera as expectativas.
 
+<img src="https://github.com/EoFeer/WeCare-DevClub/blob/main/img/mockuper.png?raw=true">
+  
