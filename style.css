@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+header {
+  margin: 30px 0 0 50px;
+  text-transform: uppercase;
+}
+
+header .link-header {
+  margin-right: 19px;
+  cursor: pointer;
+  color: #989d9c;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+header .button-header {
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+  width: 130px;
+  height: 41px;
+  border-radius: 20.5px;
+  border: none;
+  background-color: #665ae1;
+  text-transform: uppercase;
+}
+
+header .button-header:hover {
+  opacity: 0.7;
+}
+
+header .button-header:active {
+  opacity: 0.5;
+}
+
+main .img-logo {
+  display: inline-block;
+  margin: 120px 0 0 100px;
+}
+
+main section {
+  display: inline-block;
+  margin-left: 80px;
+  color: #515151;
+}
+
+main section h1 {
+  font-size: 100px;
+  font-weight: 900;
+}
+
+main section h2 {
+  font-weight: 500;
+  font-size: 58px;
+}
+
+main section p {
+  color: #848484;
+  font-size: 24px;
+  font-weight: 400;
+  margin: 45px 0;
+  width: 514px;
+}
+
+main section .button-section {
+  color: #000000;
+  font-size: 28px;
+  font-weight: 700;
+  height: 64px;
+  width: 239px;
+  border-radius: 34px;
+  background-color: #adff00;
+  border: none;
+  cursor: pointer;
+}
+
+main section .button-section:hover {
+  opacity: 0.7;
+}
+
+main section .button-section:active {
+  opacity: 0.5;
+}
+
+@media screen and (max-width: 700px) {
+  header {
+    display: none;
+  }
+
+  main .img-logo {
+    margin: 0;
+    display: block;
+    width: 100%;
+    margin-top: 90px;
+    padding: 0 15px;
+  }
+
+  main section {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 30px 0;
+  }
+
+  main section h1 {
+    font-size: 50px;
+  }
+
+  main section h2 {
+    font-size: 30px;
+    margin: 11px 0;
+  }
+
+  main section p {
+    display: none;
+  }
+}
