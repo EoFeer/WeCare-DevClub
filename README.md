@@ -18,4 +18,4 @@
   ### Conclusão:
   Em resumo, este projeto não apenas consolidou nossos conhecimentos em HTML e CSS, mas também ressaltou a importância dessas tecnologias na criação de experiências web atraentes e funcionais. A combinação da estrutura semântica do HTML com a flexibilidade estilística do CSS possibilitou a criação de um website que não apenas atende, mas supera as expectativas.
 
-<img src: "https://github.com/EoFeer/WeCare-DevClub/blob/main/img/mockuper%20(1).png">
+<img src: https://github.com/EoFeer/WeCare-DevClub/blob/main/img/mockuper%20(1).png>
